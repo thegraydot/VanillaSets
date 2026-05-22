@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff33ffccVanillaSets|r
+## Notes: Best in Slot gear sets via slash commands.
+## Author: Thomas Laurenson
+## Version: 1.0.0
+
+BestInSlotData.lua
+VanillaSets.lua
